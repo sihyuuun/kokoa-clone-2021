@@ -22,3 +22,7 @@
 .alt-header__column:last-child {
   margin-left: auto;
 }
+
+.bars {
+  margin-left: 20px;
+}
