@@ -1,3 +1,3 @@
 # kokoa-clone-2021
 
-HTML & CSS are so much fun!
+노마드코더 카카오톡 클론 코딩 
